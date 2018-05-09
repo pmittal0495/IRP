@@ -39,6 +39,10 @@ public class Account {
 			return false;
 		return true;
 	}
+	public int setAmount() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 	
 	
 
